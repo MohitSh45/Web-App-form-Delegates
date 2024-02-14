@@ -1,0 +1,12 @@
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\bin\Debug\301297059(Sharma)_Lab#2.exe.config
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\bin\Debug\301297059(Sharma)_Lab#2.exe
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\bin\Debug\301297059(Sharma)_Lab#2.pdb
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\301297059(Sharma)_Lab#2.csproj.AssemblyReference.cache
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\_301297059_Sharma__Lab_2.Form1.resources
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\_301297059_Sharma__Lab_2.Properties.Resources.resources
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\301297059(Sharma)_Lab#2.csproj.GenerateResource.cache
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\301297059(Sharma)_Lab#2.csproj.CoreCompileInputs.cache
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\301297059(Sharma)_Lab#2.exe
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\301297059(Sharma)_Lab#2.pdb
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\_301297059_Sharma__Lab_2.Form2.resources
+E:\Centennial\C#\Programming3\301297059(Sharma)_Lab#2\301297059(Sharma)_Lab#2\obj\Debug\_301297059_Sharma__Lab_2.Form3.resources
